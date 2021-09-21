@@ -26,9 +26,9 @@ https://drive.google.com/drive/folders/1gbc-KCttwn4nNnPUsAANuyz2k_fZAHgn?usp=sha
 
 4. Copy/paste only the nocturne.ini file into the game System folder
 
-5.For this game specifically the resolution has to be set in the bw3.ini file manually to 1080p
+5. For this game specifically the resolution has to be set in the bw3.ini file manually to 1080p
 
-6.Run the game
+6. Run the game
 
 
 Enjoy the classic!
