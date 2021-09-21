@@ -16,4 +16,19 @@ https://drive.google.com/drive/folders/1gbc-KCttwn4nNnPUsAANuyz2k_fZAHgn?usp=sha
 
 6. Run the game for the first time and configure keyboard settings (faster than waiting before running)
 
+# It is also possible running all three games without dgvoodoo files:
+
+1. Make sure to turn off Geforce Experience before installig the game
+
+2. Set compatibility to Windows 98/ME 
+
+3. Change setting to run as admin
+
+4. Copy/paste only the nocturne.ini file into the game System folder
+
+5.For this game specifically the resolution has to be set in the bw3.ini file manually to 1080p
+
+6.Run the game
+
+
 Enjoy the classic!
