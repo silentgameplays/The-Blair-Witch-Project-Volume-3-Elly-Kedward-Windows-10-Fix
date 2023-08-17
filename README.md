@@ -4,7 +4,7 @@ Blair Witch Project Games Fixes
 0. Go to Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play .NET 3.5 Framework support
 
 1. Install The Blair Witch Project Volume 3 Elly Kedward using portable WinCDEMU with .bin file using this link:
-https://drive.google.com/drive/folders/1gbc-KCttwn4nNnPUsAANuyz2k_fZAHgn?usp=sharing
+https://ann.nl.tab.digital/s/iJKJbiJkADEDFQJ
 
 2. Download/Copy/Paste all files from this preconfigured fix to the folder overwritting when necessary C:\Program Files (x86)\Ritual Entertainment\Blair Witch Volume Three - Elly Kedward
 
